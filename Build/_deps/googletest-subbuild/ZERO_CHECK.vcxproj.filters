@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jshell00\OneDrive - De Montfort University\GAMR2541\25_26\Assessment\Student_Repo\Angry_Birds_Clone_2026\Build\_deps\googletest-subbuild\CMakeFiles\d8a1d397903658832949aad23989c4b3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B7B00D76-A4F2-3D00-82C8-864304438DC9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

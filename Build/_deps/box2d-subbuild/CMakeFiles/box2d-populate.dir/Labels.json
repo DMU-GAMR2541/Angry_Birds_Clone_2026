@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/box2d-populate"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/09da1eaf2c5f131ecc43977cd433eba2/box2d-populate.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/dfc0c3dd68a3b2a89a4b3b2e4e934a99/box2d-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/405c3a493f6b473d9627327724ac4e33/box2d-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/405c3a493f6b473d9627327724ac4e33/box2d-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/405c3a493f6b473d9627327724ac4e33/box2d-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/405c3a493f6b473d9627327724ac4e33/box2d-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/405c3a493f6b473d9627327724ac4e33/box2d-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/405c3a493f6b473d9627327724ac4e33/box2d-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/405c3a493f6b473d9627327724ac4e33/box2d-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/box2d-subbuild/CMakeFiles/405c3a493f6b473d9627327724ac4e33/box2d-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"box2d-populate"
+		],
+		"name" : "box2d-populate"
+	}
+}

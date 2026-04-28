@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/jshell00/OneDrive - De Montfort University/Desktop/cmake/share/cmake-4.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/jshell00/OneDrive - De Montfort University/Desktop/cmake/share/cmake-4.3/Modules/FindPackageMessage.cmake
+C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/sfml-src/cmake/Modules/FindFLAC.cmake
+C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/sfml-src/cmake/Modules/FindOpenAL.cmake
+C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/sfml-src/cmake/Modules/FindVORBIS.cmake
+C:/Users/jshell00/OneDrive - De Montfort University/GAMR2541/25_26/Assessment/Student_Repo/Angry_Birds_Clone_2026/Build/_deps/sfml-src/src/SFML/Audio/CMakeLists.txt

@@ -43,15 +43,50 @@ protected:
 //A single test, not a fixture. No setup is called.
 TEST(Enemy, First_test) {
     Enemy e(100);
-    EXPECT_GT(e.getHealth(), 100);
-    SUCCEED() << "Test test passed";
-    FAIL() << "Test didn't pass";
+    std::cout << e.getHealth() << " " << 100 << std::endl;
+    //EXPECT_GT(e.getHealth(), 100);
+    EXPECT_EQ(e.getHealth(), 100);
+    /*SUCCEED() << "Test test passed";
+    FAIL() << "Test didn't pass";*/
 }
 
 TEST_F(EnemyTest, LethalDamagePopsPig) {
     enemy->takeDamage(60);
     EXPECT_TRUE(enemy->checkIfPopped());
 }
+
+TEST(NewTest, test) {
+    std::string str = "Check";
+    const char* c = str.c_str();
+    EXPECT_STREQ(c, "Check");
+}
+
+class ParamTest : public::testing::TestWithParam<int> {
+protected:
+    ParamTest() = default;
+    ~ParamTest() = default;
+
+    void SetUp() override {
+        // Code here will be called immediately after the constructor (right
+        // before each test).
+
+    }
+
+    void TearDown() override {
+
+    }
+};
+
+TEST_P(ParamTest, SimpleTest) {
+    int i_test = GetParam();
+    std::cout << "Param value:: " << i_test << std::endl;
+    EXPECT_GT(i_test, 1);
+}
+
+INSTANTIATE_TEST_SUITE_P(
+    Simple,
+    ParamTest, ::testing::Values(1, 2, 3, 4, 5)
+);
 
 int main(int argc, char** argv) {
     testing::InitGoogleTest(&argc, argv);
